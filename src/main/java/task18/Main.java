@@ -24,7 +24,7 @@ public class Main {
                 } else {
                     System.out.println(strArr[i] + " - not prime");
                 }
-            } catch (Exception e) {
+            } catch (NumberFormatException e) {
                 System.out.println(strArr[i] + " - NOT A NUMBER");
             }
         }
