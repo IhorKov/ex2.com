@@ -32,7 +32,7 @@
             </plugin>
         </plugins>
 
-        <finalName>prime-numbers.jar</finalName>
+        <finalName>prime-numbers</finalName>
     </build>
 
 
